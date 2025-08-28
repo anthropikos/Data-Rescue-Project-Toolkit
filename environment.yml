@@ -1,0 +1,10 @@
+name: drp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - seaborn
+  - numpy
+  - arcgis
+  - python
+  - pandas
