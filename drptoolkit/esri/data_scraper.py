@@ -1,5 +1,4 @@
 import requests
-import aiohttp
 from urllib import parse
 from pathlib import Path
 import logging
